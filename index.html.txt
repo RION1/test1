@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My CV</title>
+    <link href="CVstyle.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+    <h1>Beregovoy Alex</h1>
+    tel: +3(8066)708-89-42<br>
+    mail: beregovoy_alex@mail.ru
+    <a href="https://mail.ru/?from=logout&ref=main" target="_blank"><img src="Pictures/mail.png" alt="mail" title="way to mail.ru"></a>
+    <a href="https://www.facebook.com" target="_blank"> <img src="Pictures/Facebook.png" alt="facebook" title="way to facebook"></a>
+    <a href="https://vk.com/" target="_blank"><img src="Pictures/vk.png" alt="vk" title="way to vk"></a>
+</header>
+<main>
+    <section class="menu">
+        <ul>
+            <li><a href="school.html">school</a></li>
+            <li><a href="univercity.html">university</a></li>
+            <li><a href="work.html">work</a></li>
+        </ul>
+    </section>
+    <section class="contant">
+        Я родился в далеком 1984 году, жарким августовским утром, в мальньком городке Раздельная<br>
+        Одесской области. Рос в семье учителей. Мать, Береговая Жанна Семеновна - учитель Русского языка и литературы.<br>
+        Отец, Береговой Василий Маркович - учитель Химии. В два года меня отдали в ясли, раньше так со всеми было и <br>
+        мать вышла на работу. Т.к. школа занимала практически все мамино время, воспитывался в основном бабушкой, <br>
+        которой из - за меня пришлось бросить работу библиотекаря. В <a href="school.html"> <strong><em>школу</em></strong></a> пошел в 7 лет. Учился нормально, даже <br>
+        получил золотую медаль по окончании. В это же время посещал мызыкальную школу по классу аккордеон и <br>
+        курсы aнглийского языка от Одесского педагогичекого университета. В 11 классе ездил на подготовительные<br>
+        курсы в Одесский государственный политехнический университет на факкльтет автоматики и вычислительной техники,<br>
+        но в результате поступил в <a href="univercity.html"> <strong><em>Одесский государственный экономический Университет</em></strong></a> на факультет Экономической <br>
+        кибернетики который успешно закончил в 2001 году. Дальше начинается взрослая жизнь....работа, семья, дети!!!<br>
+    </section>
+</main>
+<footer><a href="Pictures/CV.docx" title="Download My CV" >Short Sammery &copy;</a></footer>
+</body>
+</html>
